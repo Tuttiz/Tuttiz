@@ -5,7 +5,6 @@
 <div>
   <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvMttSvllxfrrXnGZXHtGghnxFXVZgLFCKsrjXSxbfZSSdTxtrfLRksmHLTcMjTXhMzsV"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/Tutti_zz" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/arthur-santos-figueiredo-614353272/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/Tutti_zz" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>  
